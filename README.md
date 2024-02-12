@@ -1,1 +1,1 @@
-# MIS_Lab2
+# MIS_Labs
